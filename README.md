@@ -1,4 +1,4 @@
-# Research Project: Understanding Natural Language Processing (NLP)
+# Research Project: Understanding Natural Language Processing (NLP) For Stylometric Analysis
 
 ## Overview
 This research project aims to provide an overview of Natural Language Processing (NLP) and its fundamental components. NLP is a branch of artificial intelligence (AI) that focuses on the interaction between computers and human language. It encompasses various techniques and algorithms to enable machines to understand, interpret, and generate human language.
